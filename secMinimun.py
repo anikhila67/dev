@@ -1,5 +1,8 @@
+# ot = 3 # second minimum value
+
 def secMini(arr):
     c = arr[0]
+    
     while c < arr:
         print(c)
 
